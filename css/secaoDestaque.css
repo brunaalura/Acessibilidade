@@ -44,7 +44,7 @@
 
 @media (min-width: 830px) {
     .secaoDestaque {
-        background-image: url(../src/img/bg-intro.jpg);
+        background-image: url(../img/bg-intro.jpg);
     }
 
     .secaoDestaque-titulo {
